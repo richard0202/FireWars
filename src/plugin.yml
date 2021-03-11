@@ -1,0 +1,16 @@
+name: FireWars
+author: author
+version: 1.0
+main: com.firewars.Main
+description: FireWars
+
+commands:
+  setarena:
+    usage: /<command>
+    description: Command for setting arena
+  arestart:
+    usage: /<command>
+    description: Command to restart arena
+  start:
+    usage: </command>
+    description: Command to start arena
